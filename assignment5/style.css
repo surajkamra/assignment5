@@ -1,0 +1,10 @@
+.col-centered{
+float: none;
+margin: 0 auto;
+}
+.error{
+color:#ff0000;
+}
+.expiryDate{
+	margin:0 auto;
+}
